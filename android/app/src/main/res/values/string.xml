@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Swole App</string>
+    <string name="facebook_app_id">564415452175327</string>
+    <string name="fb_login_protocol_scheme">fb564415452175327</string>
+    <string name="facebook_client_token">470ce55fb6aa3c8baa99d68045fe442c</string>
+</resources>
